@@ -22,6 +22,16 @@ aside>p{
     margin: auto;
     margin: 0px 30px;
 }
+.icon{
+   background-color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    margin: 0px 30px;
+}
+.icon>img{
+    
+    width: 50px;
+}
 article{
     background-color: #FFFFFF;
     margin: auto;
